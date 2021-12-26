@@ -1,0 +1,18 @@
+{
+  "home": {
+    "name": "Home",
+    "path": "/"
+  },
+  "signup": {
+    "name": "Signup",
+    "path": "/signup"
+  },
+  "login": {
+    "name": "Login",
+    "path": "/login"
+  },
+  "forgotPassword": {
+    "name": "Forgot Password",
+    "path": "/forgot-password"
+  }
+}
